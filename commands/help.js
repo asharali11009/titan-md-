@@ -14,68 +14,71 @@ by ${settings.botOwner} | v${settings.version}
 🔹 .ping - Check bot response
 🔹 .alive - Check if bot is active
 🔹 .owner - Get owner contact
+🔹 .quote - Random quotes
 
 ━━━ 𝗠𝗘𝗗𝗜𝗔 ━━━
 🔹 .sticker - Convert to sticker
-🔹 .crop - Create cropped sticker
+🔹 .stickercrop - Create cropped sticker
 🔹 .emojimix - Mix two emojis
-🔹 .tgsticker - Telegram stickers
 🔹 .take - Change sticker metadata
-🔹 .igs - Instagram to sticker
-🔹 .removebg - Remove background
-🔹 .remini - Enhance image quality
+🔹 .attp - Animated text sticker
+🔹 .viewonce - View once media
 
 ━━━ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 ━━━
-🔹 .play | .song - Download music
+🔹 .play - Play songs
+🔹 .song - Download music
 🔹 .spotify - Spotify audio
-🔹 .tiktok - TikTok video/audio
-🔹 .instagram - Instagram media
-🔹 .facebook - Facebook videos
-🔹 .ytmp4 - YouTube video
+🔹 .lyrics - Find song lyrics
+🔹 .video - Download videos
 
-━━━ 𝗚𝗥𝗢𝗨𝗣 𝗔𝗗𝗠𝗜𝗡 ━━━
+━━━ 𝗚𝗥𝗢𝗨𝗣 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧 ━━━
 🔹 .ban | .unban - Control users
 🔹 .kick - Remove member
 🔹 .promote | .demote - Manage admins
 🔹 .mute | .unmute - Control chat
 🔹 .warn - Issue warning
-🔹 .tag | .tagall - Mention members
-🔹 .hidetag - Hidden mention
-🔹 .setgpp - Set group picture
-🔹 .setgname - Change group name
-🔹 .setgdesc - Edit description
+🔹 .warnings - Check user warnings
+🔹 .groupinfo - Group information
 🔹 .resetlink - Reset invite link
+🔹 .staff - List all admins
+🔹 .topmembers - Most active members
+
+━━━ 𝗧𝗔𝗚𝗚𝗜𝗡𝗚 ━━━
+🔹 .tag - Tag with message
+🔹 .tagall - Tag all members
+🔹 .tagnotadmin - Tag non-admins
+🔹 .hidetag - Hidden mention
+🔹 .mention - Bot mention responses
 
 ━━━ 𝗠𝗢𝗗𝗘𝗥𝗔𝗧𝗜𝗢𝗡 ━━━
 🔹 .antilink - Block links
 🔹 .antibadword - Filter language
 🔹 .antitag - Prevent mass tagging
+🔹 .antidelete - Track deleted msgs
 🔹 .welcome - Greeting messages
 🔹 .goodbye - Farewell messages
 🔹 .delete | .del - Remove messages
 🔹 .clear - Clear chat
 
 ━━━ 𝗙𝗨𝗡 ━━━
-🔹 .dare | .truth - Party games
-🔹 .tts - Text to speech
-🔹 .flirt - Flirty messages
-🔹 .joke - Random jokes
-🔹 .fact - Random facts
+🔹 .tictactoe - Play TicTacToe
+🔹 .goodnight - Night messages
 🔹 .ship - Ship two members
-🔹 .simp - Simp card
-🔹 .meme - Random memes
-🔹 .attp - Animated text
 🔹 .ss - Website screenshot
+
 ━━━ 𝗢𝗪𝗡𝗘𝗥 ━━━
-🔹 .setpp - Change bot picture
-🔹 .cleartmp - Clear temporary files
-🔹 .mode - Public/private mode
+🔹 .broadcast - Send to all chats
 🔹 .sudo - Manage bot admins
-🔹 .autotyping - Auto typing effect
-🔹 .autoread - Auto read messages
-🔹 .autostatus - Auto view status
-🔹 .anticall - Block callers
+🔹 .pair - Get pairing code
+🔹 .settings - Bot settings
+🔹 .update - Update bot
 🔹 .pmblocker - Block private messages
+🔹 .anticall - Block callers
+
+━━━ 𝗚𝗥𝗢𝗨𝗣 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦 ━━━
+🔹 .setgname - Change group name
+🔹 .setgdesc - Edit description
+🔹 .setgpp - Set group picture
 
 Type *.help <command>* for detailed info
 
